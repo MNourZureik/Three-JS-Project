@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ocean
+* source:	https://sketchfab.com/3d-models/ocean-300a00b005674720b562a43e342a3ad0
+* author:	Tomas Rubianes (https://sketchfab.com/rasamot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ocean" (https://sketchfab.com/3d-models/ocean-300a00b005674720b562a43e342a3ad0) by Tomas Rubianes (https://sketchfab.com/rasamot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
